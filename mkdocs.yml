@@ -6,7 +6,7 @@ repo_url: https://github.com/apache/airavata-docs
 
 docs_dir: docs
 
-pages:
+nav:
 - Home: 'index.md'
 - User Documentation:
   - Gateway User Tutorials: 'user-documentation/user-tutorials.md'
