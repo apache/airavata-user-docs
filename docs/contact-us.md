@@ -1,12 +1,12 @@
 ## Contact Us
 
-To request for a gateway with Apache Airavata create an account in <a href="https://scigap.org/" target="_blank">SciGaP Portal</a><br>
+To request a gateway with Apache Airavata create an account in <a href="https://scigap.org/" target="_blank">SciGaP Portal</a><br>
 Submit a request using the online application. <br>
 We will contact you to discuss your requirement and provide you with the best Solution for You! 
 
 
 For your clarifications, Questions and Suggestions please contact us through
-<a href="http://airavata.apache.org/community/mailing-lists.html" target="_blank">Airavata mailing list</a>
+<a href="https://airavata.apache.org/mailing-list.html" target="_blank">Airavata mailing list</a>
 
 OR
 
