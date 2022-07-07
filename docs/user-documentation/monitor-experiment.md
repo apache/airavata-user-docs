@@ -1,7 +1,8 @@
 ## Monitor Experiments
-- In the gateway after launching an experiment, you can monitor
-    - <a href= "#monexp">Experiment Status</a></br> 
-    - <a href= "#monjob">Job Status</a></br>
+- In the gateway after launching an experiment, you can 
+    - <a href= "#monexp">Monitor Experiment Status</a></br> 
+    - <a href= "#monjob">Monitor Job Status</a></br>
+    - <a href= "#fetchfile">Fetch Intermediate Files</a></br>
 
 ##### <h5 id="monexp">Monitor Experiments</h5>         
 1. Individual experiment status can be monitored from 'Experiment Summary Page'. 
@@ -25,3 +26,6 @@ Image: Experiment Summary with Active Job
 </br></br></br>
     ![Screenshot](../img/monitorexpjobcomp.png)
 Image: Experiment Summary with Completed Job & Outputs
+
+
+##### <h5 id="monjob">Monitor Jobs</h5>

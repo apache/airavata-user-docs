@@ -8,18 +8,20 @@ Image: Create Account Page
 2. Login to the gateway portal, in 'Workspace' make sure the applications/tools you plan to use are enabled; not grayed out.
 <br></br>
 
-3. Create experiments under the applications/tools you plan to use and launch jobs in remote computational resources.
+3. Create experiments under the applications/tools you plan to use and submit jobs in remote computational resources.
  <br>For more information refer: <a href="/user-documentation/create-experiment-launch-job" target="_blank">Create Experiment & Launch Jobs</a><br>
 <br></br>
 ![Screenshot](../img/createexp.png)
 Image: Create Experiment Page
 
-4. After launching your job, you can monitor them until completion. You can add your email to receive emails upon notification. 
+4. After submitting your job, you can monitor it until completion. You can add your email to receive emails upon job completion on remote resource. 
  <br>For more information refer: <a href="/user-documentation/monitor-experiment" target="_blank">Monitor Experiments & Jobs</a><br>
 <br></br>
 
 
-5. 
+5. While the job is active, you have several options available; Cancel, Share, Clone
+ <br>For more information refer: <a href="/user-documentation/clone-cancel-share" target="_blank">Clone, Cancel or Share your Experiment and Job</a><br>
+<br></br>
 
 
 

@@ -10,8 +10,9 @@ nav:
 - Home: 'index.md'
 - General:
   - Quick Start: 'user-documentation/quick-start.md'
+  - Tutorial: 'user-documentation/tutorial.md'
   - Create User Account: 'user-documentation/account-creation.md'
-  - Create Experiment & Launch Job: 'user-documentation/create-experiment-launch-job.md'
+  - Create Experiment & Submit Job: 'user-documentation/create-experiment-launch-job.md'
   - Monitor Your Experiment: 'user-documentation/monitor-experiment.md'
   - Clone, Cancel and Share: 'user-documentation/clone-cancel-share.md'
   - Create Your Groups: 'user-documentation/create-groups.md'

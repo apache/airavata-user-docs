@@ -5,22 +5,25 @@
 - Apart fom using the above allocation and login, you can use your own allocation and login for your own jobs.
 - This could be on your campus resource or on a national resource such as an XSEDE resource.
 
-##### <h5 id="viewgroups">View User Groups</h5>
-1. In Groups page, you can view all the groups available in the gateway.
-2. If you are an admin of a particular group, you would be able to edit and add new users to the group.
+
+#####<h5 id="generate sshe">Generate Personal SSH Key</h5>
+1. The gateway uses SSH keys to connect with remote computational resources. 
+2. Generate your own to use with your allocation. 
+3. Note that the generated key has 0 shares as its your own key. 
+
+
+![Screenshot](../img/generatessh1.png)
+![Screenshot](../img/generatessh2.png)
+Image: Generate SSH Key
+
+##### <h5 id="creategrp">Create Your Own Group Resource Profile (GRP)</h5>
+1. Provide the details such as GRP name, the SSH key and then select the remote resource.
+2. Add the remote computational resource details such as login name, scratch location, allocation project number and the queue details of the resource.
+3. In the GRP, users can add reservation details for compute resources as well.
+4. In a single GRP, you can have multiple resoruces added, queues and their properties selected for gateway users.
 </br></br>
 
-![Screenshot](../img/viewusergroups.png)
-Image: View User Groups
 
-
-##### <h5 id="creategroup">Create User Groups</h5>   
-1. Create your own groups from "Groups" interface.
-2. You can add other gateway users to your group and give them either 'Member' role or 'Admin' role.
-3. Members are just in your group and when you share your experiments or computational allocation with the group they can access them.
-4. Admin role will enable those users to add other users to your group.
-5. Only the group "Owner" can change the roles of other users.
-</br></br>
-
-![Screenshot](../img/createusergroups.png)
-Image: Create User Group
+![Screenshot](../img/creategrp1.png)
+![Screenshot](../img/creategrp2.png)
+Image: Create GRP
