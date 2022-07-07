@@ -23,7 +23,7 @@
 <br></br>
 4. The following is a preconfigured Gaussian input file. Download this to your local computer and then click the Browse button to upload the file:
 <br></br>
-       [npentane12diol.inp](/img/npentane12diol.inp)
+       [npentane12diol.inp](../img/npentane12diol.inp)
 <br></br>
 5. You can click on the file to take a quick look at the file in a popup window.
 <br></br>
