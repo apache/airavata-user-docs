@@ -27,7 +27,7 @@
 <br></br>
 5. You can click on the file to take a quick look at the file in a popup window.
 <br></br>
-6. Now we'll select what account to charge and where to run this job. The Allocation field should already have Default selected. Under Compute Resource make sure you select Expanse.
+6. Now we'll select what account to charge and where to run this job. Use "Resource Reservation for Tutorials" allocation for the job. Under Compute Resource make sure you select Expanse.
 <br></br>
 7. Then click Save and Launch.
 <br></br>

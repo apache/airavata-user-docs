@@ -23,5 +23,6 @@ Image: Create Experiment Page
  <br>For more information refer: <a href="/user-documentation/clone-cancel-share" target="_blank">Clone, Cancel or Share your Experiment and Job</a><br>
 <br></br>
 
+6. Users can also fetch intermediate files while the job is active in remote resource. This is useful especially for long running jobs, as you can monitor th results and take necessary steps as needed. 
 
 

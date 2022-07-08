@@ -6,7 +6,7 @@
 
 ##### <h5 id="monexp">Monitor Experiments</h5>         
 1. Individual experiment status can be monitored from 'Experiment Summary Page'. 
-2. User can also view all the experimetns statuses from 'Experiment Browse' page as well and further monitory a selected specific one. 
+2. User can also view all the experiment    s statuses from 'Experiment Browse' page as well and further monitory a selected specific one. 
 2. Based on your permission level you would have access to information.
 3. Generally as soon as you create your login and access this page, you would see grayed out "Applications" (See Image: Portal Workspace)
 4. Applications are your tools or codes that you would select to launch jobs ar remote resources. 
@@ -28,4 +28,9 @@ Image: Experiment Summary with Active Job
 Image: Experiment Summary with Completed Job & Outputs
 
 
-##### <h5 id="monjob">Monitor Jobs</h5>
+##### <h5 id="fetchfile">Fetch Intermediate Files</h5>
+1. Once the job is submitted to remote resource and active, users have the option os fetching configured output files for the application.
+
+2. For each file, there is a button to fetch them and user can view the files to decide to keep the job or to cancel.
+![Screenshot](../img/fetchfiles.png)
+Image: Fetching Intermediate Files
