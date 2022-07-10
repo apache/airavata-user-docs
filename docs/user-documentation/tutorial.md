@@ -40,6 +40,15 @@
 ![Screenshot](../img/gaussian16jobsubmission.png)
 Image: Gaussian16 Experiment Creation
 
+#####View & Download Results 
+1. After job submission to _Expanse_, you will able to see job status, going from SUBMITTED &rarr; ACTIVE &rarr; COMPLETE
+2. Then the experiment status would change to COMPLETED, when all the files are available for you to view and download.
+NOTE: When you see the experiment status COMPLETED, refresh the page.
+
+![Screenshot](../img/gaussian16outputs1.png)
+![Screenshot](../img/gaussian16outputs2.png)
+Image: Completed Gaussian16 Job Outputs
+
 #####More Details On...
 1. <a href="/user-documentation/account-creation" target="_blank">Portal Account Creation</a>
 2.  <a href="/user-documentation/create-experiment-launch-job" target="_blank">Submit Job</a>
