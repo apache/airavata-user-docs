@@ -1,6 +1,12 @@
 ## Tutorial Hands on: run a Gaussian16 computational experiment in the Django portal
+- Section covered;
+    - <a href= "#access">Getting Access</a></br>
+    - <a href= "#submit">Submit a Test Job</a></br> 
+    - <a href= "#download">View & Download Results</a></br>
+    - <a href= "#more">More Details On...</a></br>
 
-
+    
+#####<h5 id="access">Getting Access</h5>
 1. Log into <a href="https://testdrive.airavata.org/" target="_blank"><b>TestDrive Portal</a></b>
 <br></br>
 2. First, you'll need a user account. <a href="https://testdrive.airavata.org/auth/login" target="_blank"><b>Create an account</a></b> using your existing institutional login through CILogon. 
@@ -14,7 +20,7 @@
 6. Once you are granted access, refresh the page and you should now see that you the _**Gaussian16**_ application is not greyed out.
 <br></br>
 
-#####Submit a Test Job
+#####<h5 id="submit">Submit a Test Job</h5>
 1. From the dashboard, click on the _**Gaussian16**_ application. The page title is _Create a New Experiment_.
 <br></br>
 2. Here you can change the _Experiment Name_, add a _Description_ or select a different Project if you have multiple projects. For now use the _Default Project_.
@@ -40,7 +46,7 @@
 ![Screenshot](../img/gaussian16jobsubmission.png)
 Image: Gaussian16 Experiment Creation
 
-#####View & Download Results 
+#####<h5 id="download">View & Download Results</h5>
 1. After job submission to _Expanse_, you will able to see job status, going from SUBMITTED &rarr; ACTIVE &rarr; COMPLETE
 2. Then the experiment status would change to COMPLETED, when all the files are available for you to view and download.
 NOTE: When you see the experiment status COMPLETED, refresh the page.
@@ -49,6 +55,6 @@ NOTE: When you see the experiment status COMPLETED, refresh the page.
 ![Screenshot](../img/gaussian16outputs2.png)
 Image: Completed Gaussian16 Job Outputs
 
-#####More Details On...
+#####<h5 id="more">More Details On...</h5>
 1. <a href="/user-documentation/account-creation" target="_blank">Portal Account Creation</a>
 2.  <a href="/user-documentation/create-experiment-launch-job" target="_blank">Submit Job</a>
