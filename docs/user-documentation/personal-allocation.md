@@ -10,6 +10,9 @@
 1. The gateway uses SSH keys to connect with remote computational resources. 
 2. Generate your own to use with your allocation. 
 3. Note that the generated key has 0 shares as its your own key. 
+4. Login to the compute resource you have the allocation from, e.g. If its XSEDE Expanse, you could SSH to it and access using your password. SSH testuser@expanse. xsede.ucsd.edu
+5. Add the newly generated key to your /.ssh/authorized_keys file. If you don't have such file you can create it and add.
+6. Please note in case the resource has enabled two factor authentication for individual user login, please contact your gateway admin to discuss ways your allocation can be used within the gateway.
 
 
 ![Screenshot](../img/generatessh1.png)
@@ -20,10 +23,18 @@ Image: Generate SSH Key
 1. Provide the details such as GRP name, the SSH key and then select the remote resource.
 2. Add the remote computational resource details such as login name, scratch location, allocation project number and the queue details of the resource.
 3. In the GRP, users can add reservation details for compute resources as well.
-4. In a single GRP, you can have multiple resoruces added, queues and their properties selected for gateway users.
+4. In a single GRP, you can have multiple resources added, queues and their properties selected for gateway users.
 </br></br>
 
 
 ![Screenshot](../img/creategrp1.png)
 ![Screenshot](../img/creategrp2.png)
 Image: Create GRP
+
+##### <h5 id="creategrp">Use Your Allocation for Job Submissions</h5>
+1. Now that you have successfully generated and added your SSH and created your GRP, you are ready to use your allocation for computational jobs.
+2. When creating a new experiment, under allocation you should be able to view your created GRP, select that and the job will be using your allocation. 
+
+<ADD>---------
+![Screenshot](../img/creategrp2.png)
+Image: Use Your Allocation for Jobs
