@@ -35,6 +35,5 @@ Image: Create GRP
 1. Now that you have successfully generated and added your SSH and created your GRP, you are ready to use your allocation for computational jobs.
 2. When creating a new experiment, under allocation you should be able to view your created GRP, select that and the job will be using your allocation. 
 
-<ADD>---------
-![Screenshot](../img/creategrp2.png)
+![Screenshot](../img/yourallocation.png)
 Image: Use Your Allocation for Jobs
