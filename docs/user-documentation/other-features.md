@@ -1,4 +1,4 @@
-##Django Gateway Theme Management
+##Other Gateway Features
 
 What else is available for you in the gateway portal?
 <br></br>
@@ -7,6 +7,7 @@ What else is available for you in the gateway portal?
 - <a href= "#usersettings">Update User Settings</a></br>
 - <a href= "#sshgen">Generate Own SSH Keys</a></br>
 - <a href= "#viewnotices">Keep an Eye on Notices</a></br>
+- <a href= "#centraldata">Gateway Shared Data Storage</a></br>
 
 
 ##### <h5 id="createproj">Create Projects</h5>
@@ -43,3 +44,10 @@ Image: Generate New SSH Credentials
 1. Pretty much what the title says, on the top menu you would see the 'Bell' and you can view notices by the gateway admin.
 2. You also have the option of "Mark as Read"
 3. The messages has an expiration set by the gateway admin and upon expiring it will get removed from the list.
+
+##### <h5 id="centraldata">'Shared' Gateway Storage</h5>
+1. For users gateways may provide a 'Shared' storage directory.
+2. General gateway users can use files in this directory as experiment inputs.
+3. Users can browse this directory and study the data files.
+4. As a gateway user, you will not be able to add files or sub directories to 'Shared' 
+5. The 'Shared' directory cannot be deleted, nor can delete files or sub directories inside. 

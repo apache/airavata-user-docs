@@ -30,6 +30,9 @@ More information on <a href="https://apache-airavata-django-portal.readthedocs.i
 
 <!--The Installation section of the documentation applies to on-premise installation of Apache Airavata. -->
 
-###Latest on Django Release !
-<b>July release user documentation </b><br>
-1. Coming Soon! 
+###Django Releases
+####2023
+#####<h5 id="#February">February</h5>
+1. The central 'Shared' data directory for the gateway
+
+More [Details](user-documentation/other-features/#centraldata)
