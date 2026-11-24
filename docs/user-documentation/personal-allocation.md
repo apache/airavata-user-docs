@@ -2,7 +2,7 @@
 
 - The gateway generally has allocations added by the gateway admin. This allocation is for all the gateway users to use through a single login in the remote computational resource.
 - This single login is known as either "Group login" or a "Community Login".
-- Apart fom using the above allocation and login, you can use your own allocation and login for your own jobs.
+- Apart from using the above allocation and login, you can use your own allocation and login for your own jobs.
 - This could be on your campus resource or on a national resource such as an XSEDE resource.
 
 

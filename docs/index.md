@@ -9,8 +9,8 @@
 
 ### Django Portal
 - The Django portal, the 'Science Gateway' provides tools and methods to easily integrate with post processing applications and application centric interfaces.
-- Django portal is the users interface to use services available through Apache Airavata Middleware. 
-- Django portal mainly has 3 user groups; General User, Read-only- admin user and Admin user
+- Django portal is the user interface to use services available through Apache Airavata Middleware. 
+- Django portal mainly has 3 user groups; General User, Read-only admin user and Admin user
 - This documentation provides step by step instructions on functionality available for general users.
 
 

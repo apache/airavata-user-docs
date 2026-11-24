@@ -12,7 +12,7 @@ Image: Actions available on Experiment
 ##### <h5 id="clone">Clone Experiment</h5>
 1. Cloning an experiment is available from "Experiment Browse" and "Experiment Summary" pages.
 2. Cloning is creating a new experiment to launch a new job from a previous experiment.
-3. Once cloned, user can change the input files or computational resource queue properties and launch the newly cloned experimnet.
+3. Once cloned, user can change the input files or computational resource queue properties and launch the newly cloned experiment.
 4. A general user can clone its own experiment as well as ones shared by others.
 5. Irrespective of the existing status of the experiment, user can clone and create a new one.
 
@@ -20,7 +20,7 @@ Image: Actions available on Experiment
 1. Sharing is available through "Experiment Summary" page.
 2. You can share with an individual or a user group.
 3. When sharing you can specify the permission as READ, WRITE or MANAGE_SHARING.
-4. After you have share, you can change permissions or un-share.
+4. After you have shared, you can change permissions or un-share.
 </br></br>
 ![Screenshot](../img/shareexp.png)
 Image: Share an Experiment
