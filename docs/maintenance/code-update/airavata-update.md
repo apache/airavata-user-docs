@@ -6,7 +6,7 @@ Hint: If you are in the wrong folder you would probably get message <pre><code>'
 3. Now build the code 
 <pre><code> mvn clean install</code></pre>
 Hint: To avoid the 'tests on install' run <pre><code>mvn clean install -Dmaven.test.skip=true</code></pre>
-4. Once the build is success, stop the running Airavata server. You can either stop the java server using 
+4. Once the build is successful, stop the running Airavata server. You can either stop the java server using 
 <pre><code>kill -9 &#60;process ID&#62;</code></pre>
 OR<br>
 Navigate to bin folder where airavata server exists (LocalAiravata/apache-airavata-server-0.15-SNAPSHOT/bin). and stop the server

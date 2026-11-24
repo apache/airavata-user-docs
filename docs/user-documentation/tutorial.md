@@ -47,7 +47,7 @@
 Image: Gaussian16 Experiment Creation
 
 #####<h5 id="download">View & Download Results</h5>
-1. After job submission to _Expanse_, you will able to see job status, going from SUBMITTED &rarr; ACTIVE &rarr; COMPLETE
+1. After job submission to _Expanse_, you will be able to see job status, going from SUBMITTED &rarr; ACTIVE &rarr; COMPLETE
 2. Then the experiment status would change to COMPLETED, when all the files are available for you to view and download.
 NOTE: When you see the experiment status COMPLETED, refresh the page.
 

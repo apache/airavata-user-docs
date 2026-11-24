@@ -11,9 +11,9 @@ What else is available for you in the gateway portal?
 
 
 ##### <h5 id="createproj">Create Projects</h5>
-1. The gateway has the 'Default Project' created for you. You can us this project as a holder for your experiments.
+1. The gateway has the 'Default Project' created for you. You can use this project as a holder for your experiments.
 2. Apart from the system created one, you can also create your own projects to hold your experiments; a mechanism of grouping your experiments.
-3. Projects can also be share with other gateway users and gateway user groups.
+3. Projects can also be shared with other gateway users and gateway user groups.
 4. When you share, you can set permissions to either READ, WRITE or MANAGE_SHARING.
 
 
@@ -34,16 +34,16 @@ Image: Manage Storage
 Image: User Profile Editor
 
 ##### <h5 id="sshgen">Generate Own SSH Keys</h5>
-1. This is for you to generate your own SSH SSH credentials to use to connect to your own allocations through the gateway.
+1. This is for you to generate your own SSH credentials to use to connect to your own allocations through the gateway.
 2. As a generic gateway user keys you generate are invincible to everyone else.
-3. But always you hav the option of sharing it with any other user or user group with permissions; READ, WRITE or MANAGE_SHARING
+3. But always you have the option of sharing it with any other user or user group with permissions; READ, WRITE or MANAGE_SHARING
 ![Screenshot](../img/sshkeygen.png)
 Image: Generate New SSH Credentials
 
 ##### <h5 id="viewnotices">Keep an Eye on Notices</h5>
 1. Pretty much what the title says, on the top menu you would see the 'Bell' and you can view notices by the gateway admin.
 2. You also have the option of "Mark as Read"
-3. The messages has an expiration set by the gateway admin and upon expiring it will get removed from the list.
+3. The messages have an expiration set by the gateway admin and upon expiring it will get removed from the list.
 
 ##### <h5 id="centraldata">'Shared' Gateway Storage</h5>
 1. For users gateways may provide a 'Shared' storage directory.
